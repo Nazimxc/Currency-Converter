@@ -1,7 +1,5 @@
-Currency-Converter
-![currency converter](https://github.com/user-attachments/assets/ea453a05-e858-4100-a080-ce22a62ba353)
 # Currency Converter
-
+![currency converter](https://github.com/user-attachments/assets/ea453a05-e858-4100-a080-ce22a62ba353)
 ## Overview
 This is a **Currency Converter** web application that allows users to convert currency values from one currency to another using real-time exchange rates. The app fetches exchange rates from an API and provides an intuitive user interface for easy conversion.
 
